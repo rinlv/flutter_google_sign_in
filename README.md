@@ -1,6 +1,6 @@
 # google_sign_in
 
-[![pub package](https://img.shields.io/pub/v/google_sign_in.svg)](https://pub.dev/packages/google_sign_in)
+[![pub package](https://img.shields.io/pub/v/google_sign_in.svg)](https://pub.dev/packages/google_sign_in/versions/4.5.9)
 
 A Flutter plugin for [Google Sign In](https://developers.google.com/identity/).
 
